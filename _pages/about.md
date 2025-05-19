@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Qihao Wu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! Welcome to my page :)
+Hi! Welcome to Qihao's page : )
 ======
 I am a PhD candidate supervised by Prof. Yong-Hong Kuo in the Department of Data and Systems Engineering, the University of Hong Kong. 
 
