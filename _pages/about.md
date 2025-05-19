@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qihao (Jimmy) Wu"
+title: "Qihao Wu"
 author_profile: true
 redirect_from: 
   - /about/
