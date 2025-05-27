@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Qihao Wu / Personal Page"
+title                    : "Qihao Wu / Page"
 title_separator          : "-"
 name                     : &name "Qihao Wu"
 description              : &description "personal description"
