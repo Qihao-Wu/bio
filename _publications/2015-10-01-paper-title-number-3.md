@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement learning for healthcare operations management: methodological framework, recent developments, and future research directions"
+title: "Reinforcement Learning for Healthcare Operations Management: Methodological Framework, Recent Developments, and Future Research Directions"
 collection: publications
 category: manuscripts
 date: 2025-04-09
