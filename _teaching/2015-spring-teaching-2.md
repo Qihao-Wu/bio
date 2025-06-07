@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Mentor of MSc Students in Healthcare Analytics Research Group"
 collection: teaching
-type: "Workshop"
+type: "Mentoring Final Year Project"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "The University of Hong Kong, Department of Data and Systems Engineering"
+date: 2025
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+From 2023 to the present, I have led a group of Research Assistants, Research Interns, MSc, and Undergraduate students to conduct research projects around healthcare analytics. Some selected outcomes are targeted at high-quality academic journals.
