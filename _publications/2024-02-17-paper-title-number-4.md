@@ -5,5 +5,4 @@ category: conferences
 excerpt: with Haolin Feng, Yiwu Jia, and Yong-Hong Kuo
 date: 2025-06-29
 venue: 'INFORMS M&SOM Conference'
-paperurl: 'https://github.com/Qihao-Wu/bio/blob/master/files/msom_three_page_extended_abstract.pdf'
 ---
