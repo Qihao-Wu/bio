@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Qihao_WU_CV](https://github.com/Qihao-Wu/bio/files/PhD_CV_Academia.pdf)
 
 Education
 ======
