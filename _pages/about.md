@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! Welcome to Qihao's page : )
 ======
-I am a PhD candidate supervised by [Prof. Yong-Hong Kuo](https://sites.google.com/site/yonghongkuo/) in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/), the [University of Hong Kong](https://www.hku.hk/). 
+I am a PhD Candidate supervised by [Prof. Yong-Hong Kuo](https://sites.google.com/site/yonghongkuo/) in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/), the [University of Hong Kong](https://www.hku.hk/). 
 
 My research focuses on Data-driven Decision-making, Markov Decision Process, Reinforcement Learning, Forecasting, and Optimization for applications in Healthcare Operations Management. 
 
