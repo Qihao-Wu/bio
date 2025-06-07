@@ -3,7 +3,7 @@ title: "DASE 3136 Operations Planning and Control"
 collection: teaching
 type: "Undergraduate course"
 venue: "The University of Hong Kong, Department of Data and Systems Engineering"
-date: 2024-09-01
+date: "2024-09-01"
 location: "Hong Kong"
 ---
 
