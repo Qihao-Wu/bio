@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "DASE 3136 Operations Planning and Control"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The University of Hong Kong, Department of Data and Systems Engineering"
+date: 2024-09-01
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a teaching assistant, I have set the questions for weekly assignments and midterm exams. I also teach a series of tutorials for the class (size: 30+ students).
