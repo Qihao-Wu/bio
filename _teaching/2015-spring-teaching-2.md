@@ -2,7 +2,6 @@
 title: "Mentor of MSc Students in Healthcare Analytics Research Group"
 collection: teaching
 type: "Mentoring Final Year Project"
-permalink: /teaching/2015-spring-teaching-1
 venue: "The University of Hong Kong, Department of Data and Systems Engineering"
 date: 2025
 location: "Hong Kong"
