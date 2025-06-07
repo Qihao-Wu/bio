@@ -21,12 +21,12 @@ Apart from my research, I have a wide range of interests, including Quantitative
 
 Works in Progress
 ======
-1. Inpatient Management with Reinforcement Learning and Optimization
-  * Poster at INFORMS Annual Meeting, October 2024, Seattle.
-
-
-2. Outpatient Scheduling based on Machine Learning
+1. Outpatient Scheduling based on Machine Learning
   * Present at European Conference on Operational Research, June 2025, Leeds.
+
+
+2. Inpatient Management with Reinforcement Learning and Optimization
+  * Poster at INFORMS Annual Meeting, October 2024, Seattle.
 
 
 3. Data-driven Interpretable Pricing with Machine Learning
@@ -40,5 +40,6 @@ Works in Progress
 News
 ======
 HKU Graduate School: [Student Corner](https://gradsch.hku.hk/news_and_events/newsletter/student-corner-qihao-wu-shares-insights-his-inspiring-research-visit)
+
 
 HKU DASE Departmental Events: [Best Student Poster Award at the International Conference on Primary Care Ecosystem: Integrated Care for Successful Ageing](https://www.dase.hku.hk/events/best-student-poster-award-at-the-international-conference-on-primary-care-ecosystem-integrated-care-for-successful-ageing)
