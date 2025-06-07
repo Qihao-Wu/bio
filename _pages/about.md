@@ -23,7 +23,6 @@ Works in Progress
 ======
 1. Inpatient Management with Reinforcement Learning and Optimization
   * Poster at INFORMS Annual Meeting, October 2024, Seattle.
-  * Poster at International Conference on Primary Care Ecosystem, March 2024, Hong Kong.
 
 
 2. Outpatient Scheduling based on Machine Learning
