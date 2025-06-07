@@ -22,10 +22,14 @@ Works in Progress
   * Poster at INFORMS Annual Meeting, October 2024, Seattle.
   * Poster at International Conference on Primary Care Ecosystem, March 2024, Hong Kong.
 
+
 2. Outpatient Scheduling based on Machine Learning
   * Present at European Conference on Operational Research, June 2025, Leeds.
+
 
 3. Data-driven Interpretable Pricing with Machine Learning
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
 
+
 4. Predicting Inpatient Admission and Length of Stay
+
