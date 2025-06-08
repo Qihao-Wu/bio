@@ -22,7 +22,7 @@ repository               : "https://qihao-wu.github.io/bio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Qihao_Wu.jpg"
   name             : "Qihao Wu (Jimmy)"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at HKU"
