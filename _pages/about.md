@@ -27,7 +27,7 @@ Works in Progress
   * The First Place Award in the Research Presentation Competition organized by the University of Liverpool, June 2025, Liverpool.
 
 
-2. Inpatient Management with Patient Reallocations: A Distributionally Robust Chance-Constrained Markov Decision Process Approach
+2. Robust Inpatient Management with Patient Reallocations
   * Poster at INFORMS Annual Meeting, October 2024, Seattle.
   * Best Student Poster Award at the International Conference on Primary Care Ecosystem, March 2024, Hong Kong.
 
