@@ -21,18 +21,18 @@ Apart from my research, I have a wide range of interests, including Quantitative
 
 Works in Progress
 ======
-1. Outpatient Scheduling based on Machine Learning
+1. Equity in Access to Care: Appointment Scheduling across Patient Groups with Varied No-Show Rates
   * Present at INFORMS MSOM Conference, June 2025, London.
   * Present at European Conference on Operational Research, June 2025, Leeds.
   * The First Place Award in the Research Presentation Competition organized by the University of Liverpool, June 2025, Liverpool.
 
 
-2. Inpatient Management with Reinforcement Learning and Optimization
+2. Inpatient Management with Patient Reallocations: A Distributionally Robust Chance-Constrained Markov Decision Process Approach
   * Poster at INFORMS Annual Meeting, October 2024, Seattle.
   * Best Student Poster Award at the International Conference on Primary Care Ecosystem, March 2024, Hong Kong.
 
 
-3. Data-driven Interpretable Pricing with Machine Learning
+3. Used Car Pricing with Interpretable Machine Learning and Analysis of Marginal Effects
   * Under Major revision.
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
 
