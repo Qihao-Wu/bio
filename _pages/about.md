@@ -18,6 +18,8 @@ My research focuses on Data-driven Decision-making, Markov Decision Process, Rei
 Prior to my PhD, I received an MSc in Computational Methods from [Imperial College London](https://www.imperial.ac.uk/) and a joint BEng in Mechatronics from the [University of Wollongong](https://www.uow.edu.au/) and [Beijing Jiaotong University](http://en.njtu.edu.cn/).
 
 Apart from my research, I have a wide range of interests, including Quantitative Finance, Formula Student Racing, Medicine, and Tennis.
+
+======
 <br/>
 
 
@@ -37,6 +39,8 @@ Works in Progress
 3. Used Car Pricing with Interpretable Machine Learning and Analysis of Marginal Effects
   * Under Major revision.
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
+
+======
 <br/>
 
 
