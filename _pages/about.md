@@ -26,7 +26,7 @@ Apart from my research, I have a wide range of interests, including Quantitative
 Works in Progress
 ======
 1. Equity in Access to Care: Appointment Scheduling across Patient Groups with Varied No-Show Rates
-  * Present at INFORMS MSOM Conference, June 2025, London.
+  * Present at INFORMS M&SOM Conference, June 2025, London.
   * Present at European Conference on Operational Research, June 2025, Leeds.
   * The First Place Award in the Research Presentation Competition organized by the University of Liverpool, June 2025, Liverpool.
 
