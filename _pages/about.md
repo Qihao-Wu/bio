@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! Welcome to Qihao's page : )
 ======
-<br/><br/>
+<br/>
 
 I am a PhD Candidate supervised by [Prof. Yong-Hong Kuo](https://sites.google.com/site/yonghongkuo/) in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/), the [University of Hong Kong](https://www.hku.hk/). Also, I was a visiting PhD student collaborating with [Prof. Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/) in [CentraleSupélec](https://www.centralesupelec.fr/en/), [Université Paris Saclay](https://www.universite-paris-saclay.fr/).
 
@@ -18,7 +18,7 @@ My research focuses on Data-driven Decision-making, Markov Decision Process, Rei
 Prior to my PhD, I received an MSc in Computational Methods from [Imperial College London](https://www.imperial.ac.uk/) and a joint BEng in Mechatronics from the [University of Wollongong](https://www.uow.edu.au/) and [Beijing Jiaotong University](http://en.njtu.edu.cn/).
 
 Apart from my research, I have a wide range of interests, including Quantitative Finance, Formula Student Racing, Medicine, and Tennis.
-
+<br/>
 
 
 Works in Progress
@@ -37,7 +37,7 @@ Works in Progress
 3. Used Car Pricing with Interpretable Machine Learning and Analysis of Marginal Effects
   * Under Major revision.
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
-
+<br/>
 
 
 
