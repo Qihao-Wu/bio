@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! Welcome to Qihao's page : )
 ======
-$~$
+<br/><br/>
 
 I am a PhD Candidate supervised by [Prof. Yong-Hong Kuo](https://sites.google.com/site/yonghongkuo/) in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/), the [University of Hong Kong](https://www.hku.hk/). Also, I was a visiting PhD student collaborating with [Prof. Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/) in [CentraleSupélec](https://www.centralesupelec.fr/en/), [Université Paris Saclay](https://www.universite-paris-saclay.fr/).
 
@@ -20,7 +20,7 @@ Prior to my PhD, I received an MSc in Computational Methods from [Imperial Colle
 Apart from my research, I have a wide range of interests, including Quantitative Finance, Formula Student Racing, Medicine, and Tennis.
 
 
-$~$
+
 Works in Progress
 ======
 1. Equity in Access to Care: Appointment Scheduling across Patient Groups with Varied No-Show Rates
@@ -41,7 +41,7 @@ Works in Progress
 
 
 
-$~$
+
 News
 ======
 HKU Graduate School: [Student Corner](https://gradsch.hku.hk/news_and_events/newsletter/student-corner-qihao-wu-shares-insights-his-inspiring-research-visit)
