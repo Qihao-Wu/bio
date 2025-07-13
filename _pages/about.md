@@ -19,8 +19,8 @@ Prior to my PhD, I received an MSc in Computational Methods from [Imperial Colle
 
 Apart from my research, I have a wide range of interests, including Quantitative Finance, Formula Student Racing, Medicine, and Tennis.
 
-======
-<br/>
+
+<br/><br/>
 
 
 Works in Progress
@@ -40,8 +40,8 @@ Works in Progress
   * Under Major revision.
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
 
-======
-<br/>
+
+<br/><br/>
 
 
 
