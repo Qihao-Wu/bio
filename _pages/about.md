@@ -13,9 +13,9 @@ Hi! Welcome to Qihao's page : )
 
 I am a PhD Candidate supervised by [Prof. Yong-Hong Kuo](https://sites.google.com/site/yonghongkuo/) and [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/?sc_lang=en) in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/), the [University of Hong Kong](https://www.hku.hk/). Also, I was a visiting PhD student collaborating with [Prof. Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/) in [CentraleSupélec](https://www.centralesupelec.fr/en/), [Université Paris Saclay](https://www.universite-paris-saclay.fr/).
 
-My research focuses on Data-driven Decision-making, Markov Decision Process, Reinforcement Learning, Explainable Artificial Intelligence, Forecasting, and Robust Optimization for applications in Healthcare Operations Management.
+My research focuses on Data-driven Decision-making, Markov Decision Process, Reinforcement Learning, Forecasting, and Robust Optimization for applications in Healthcare Operations Management.
 
-Prior to my PhD, I received an MSc in Computational Methods from [Imperial College London](https://www.imperial.ac.uk/) and a joint BEng in Mechatronics from the [University of Wollongong](https://www.uow.edu.au/) and [Beijing Jiaotong University](http://en.njtu.edu.cn/).
+Prior to my PhD, I received an MSc in Computational Methods from [Imperial College London](https://www.imperial.ac.uk/) and a joint BEng in Mechatronic Engineering from the [University of Wollongong](https://www.uow.edu.au/) and [Beijing Jiaotong University](http://en.njtu.edu.cn/).
 
 Apart from my research, I have a wide range of interests, including Quantitative Finance, Formula Student Racing (FSAE), Traditional Chinese Medicine, and Tennis.
 
@@ -31,13 +31,13 @@ Works in Progress
   * The First Place Award in the Research Presentation Competition organized by the University of Liverpool, June 2025, Liverpool.
 
 
-2. Robust Inpatient Management with Patient Reallocations
+2. Robust Inpatient Management with Patient Redirects
   * Poster at INFORMS Annual Meeting, October 2024, Seattle.
   * Best Student Poster Award at the International Conference on Primary Care Ecosystem, March 2024, Hong Kong.
 
 
-3. Used Car Pricing with Interpretable Machine Learning and Analysis of Marginal Effects
-  * Under Major revision.
+3. Explainable Used Car Pricing: A Machine Learning Framework with Analysis of Marginal Effects
+  * Under Minor revision.
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
 
 
