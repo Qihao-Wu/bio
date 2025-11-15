@@ -14,6 +14,8 @@ Hi! Welcome to Qihao's page : )
 I am a PhD Candidate supervised by [Prof. Yong-Hong Kuo](https://sites.google.com/site/yonghongkuo/) and [Prof. George Q. Huang](https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/?sc_lang=en) in the [Department of Data and Systems Engineering](https://www.dase.hku.hk/), the [University of Hong Kong](https://www.hku.hk/). Also, I was a visiting PhD student collaborating with [Prof. Abdel Lisser](https://l2s.centralesupelec.fr/u/lisser-abdel/) in [CentraleSupélec](https://www.centralesupelec.fr/en/), [Université Paris Saclay](https://www.universite-paris-saclay.fr/).
 
 My research focuses on Data-driven Decision-making, Markov Decision Process, Reinforcement Learning, Forecasting, and Robust Optimization for applications in Healthcare Operations Management.
+<img width="1859" height="721" alt="researchoverview" src="https://github.com/user-attachments/assets/d4f84e41-06f7-417a-9f3d-54b3ef80354a" />
+
 
 Prior to my PhD, I received an MSc in Computational Methods from [Imperial College London](https://www.imperial.ac.uk/) and a joint BEng in Mechatronic Engineering from the [University of Wollongong](https://www.uow.edu.au/) and [Beijing Jiaotong University](http://en.njtu.edu.cn/).
 
