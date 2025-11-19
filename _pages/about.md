@@ -39,7 +39,7 @@ Works in Progress
 
 
 3. Explainable Used Car Pricing: A Machine Learning Framework with Analysis of Marginal Effects
-  * Under Minor revision.
+  * Accepted.
   * Present at European Conference on Operational Research, July 2024, Copenhagen.
 
 
